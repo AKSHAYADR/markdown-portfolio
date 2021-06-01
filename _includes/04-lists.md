@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+1. CAT
+2. RABBIT
+3. DOG
+   1. KEMAN
+   2. COOKIE
+   3. MICKEY
